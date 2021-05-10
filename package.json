@@ -1,0 +1,11 @@
+{
+  "name": "Nodeverse",
+  "description": "Nodeverse is a Miiverse Clone programmed in NodeJS, meant to be the best one.",
+  "authors": "DaKux, Rix56, Murilo",
+  "version": "1.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
