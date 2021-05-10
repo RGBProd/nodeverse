@@ -4,7 +4,7 @@ const router = express.Router();
 router.get('/', function (req, res) {
     res.render('index')
 })
-// dont ask why this, this is just a test
+// just a test do not ask about it
 router.get('/403', function (req, res) {
     res.render('403')
 })
