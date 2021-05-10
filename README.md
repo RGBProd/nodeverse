@@ -7,3 +7,6 @@ Nodeverse is a Miiverse Clone programmed in NodeJS, with Miiverse's assets.
 
 ## Who is helping on making this with you?
 Glad you asked! <a href="https://github.com/Rix565">Rix565</a>, and <a href="https://github.com/Murilo2">Murilo</a> are helping!
+
+### AnYtHiNG ElSe?!???
+Yes, this project has the szpdpcvpvpvp license which mean you can't use the name and logo have a good night bro
