@@ -1,3 +1,12 @@
+///////////////////////////////////////////////////////////
+///                                                     ///
+///                  𝙉𝙊𝘿𝙀𝙑𝙀𝙍𝙎𝙀                        ///
+///    THIS PROJECT IS UNDER APACHE-2.0 LICENSE.        /// 
+///       MADE BY DAKUX, RIX56 AND MURILO.              ///
+///                                                     ///
+///////////////////////////////////////////////////////////
+
+
 const { Console } = require("console");
 console.log('Nodeverse Alpha')
 const express = require("express");
