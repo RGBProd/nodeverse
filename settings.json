@@ -2,12 +2,12 @@
     "Memo": {
             "title1": "Welcome to Nodeverse !",
             "paragraph1": "Nodeverse is a Miiverse Clone that allows you to discuss with other users about games and more!",
-            "title2": "Why?",
-            "paragraph2": "Well, NodeJS is faster and more cool."
+            "title2": "Is this from scratch?",
+            "paragraph2": "Yes. Programmed in NodeJS, made by DaKux, Rix56 and Murilo, Nodeverse was designed to be faster than any other Miiverse Clones."
     },
     "Security":{
         "allow_signups": true,
-        "cookie_secret": "areyouseeingthismomimpopular"
+        "cookie_secret": "areyouseeingthismomimontv"
     },
     "DB": {
         "host": "localhost",
