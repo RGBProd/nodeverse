@@ -1,0 +1,22 @@
+<html>
+    <%- include("elements/header") %>
+    <body>
+        <div id="main-body" class="guest">
+            <div class="main-column center">
+                <div class="post-list-outline login-page">
+                    <form method="post">
+                        <img src="/img/menu-logo.png">
+                        <p class="lh">Log In</p>
+                        <p>Sign in with an Nodeverse account to create posts and comments, and more.</p>
+                        <h3 class="label"><label>User ID: <input type="text" class="auth-input" name="username" maxlength="32" placeholder="User ID"></label></h3>
+                        <h3 class="label"><label>Password: <input type="password" class="auth-input" name="password" maxlength="32" placeholder="Password"></label></h3>
+                        <button type="submit" class="button">Sign In</button>
+                        <div class="ll">
+                            <p>If you don't have an account, <a href="/signup">you can sign up here.</a></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

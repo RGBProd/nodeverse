@@ -305,7 +305,7 @@ body {
   min-width: 320px;
   margin: auto 0;
   text-align: left;
-  background: var(--theme, #8000ff) url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAEt0lEQVR4nO2dW3KjQBAEU/hx7r21I+TA3o9ZeSVZwAAN04WqDjCRUVmfRHP6+Pj4Q1DO5zN930c9d5Ou63h/f+d0OoW8Z9bC2UU95kJLVFgvnCEDcKElKqzXnKsH4EJLVFjvOVcNwIWWqLA+4lw8ABdaosI6xLloAC60RIV1jHP2AFxoiQrrFOesAbjQEhXWGs7qAbjQEhXWWs6qAbjQEhXWOZyTA3ChJSqsczlHB+BCS1RYl3AODsCFlqiwLuV8OAAXWqLCuobz1wBcaIkK61rOmwG40BIV1gjOnwG40BIV1ijODlzoJSqskZydCy1RYY3m7J69UNBh3YLzNeSlu7y8vPD29pa+UHhu+X3fx30Ueonl68iHlZ+E3cfyteRD4AAsX08+BA3A8jXlQ8AAuq6z/ODsyblqACqFgg7r3pyLB6BSKOiwtuBcNACVQkGHtRXn7AGoFAo6rC05Zw1ApVDQYW3NWT2A1qBzosKagbNqABlAa6PCmoVzcgBZQGuiwpqJc3QAmUCnosKajXNwANlAx6LCmpHz4QAygg5FhTUr568BZAV9FBXWzJw3A8gMeh8V1uycPwPIDnodFVYFzg40QC9RYRXi1AAFqVIlOAE6GVCRUlU4oXzJ1SmAqpSqwglFvk/FBkaFE/7Lh4BvAi1fhxNu5cPKAVi+Dif8lg8rBmD5OpzwWD4sHIDl63DCsHxYMADL1+GEcfkwcwCWr8MJ0/JhxgAsX4cT6uRD5QAsX4cT6uVDxQAsX4cT5smHiQFYvg4nzJcPIwOwfB1OWCYfBgZg+TqcsFw+PBiA5etwwjr5cDcAy9fhhPXy4WoAlq/DCTHyAZ+KvUSFE+LkAz4VCzqcECv/+/vbp2JVOCFe/vl8jr8UCjqlqnDCNvK/vr7iB6BSqgonbCcfAr4JvI5KqSqcsK18CByASqkqnLC9fAgagEqpKpywj3wIGIBKqSqcsJ98WDkAlVJVOGFf+bBiACqlqnDC/vJh4QBUSlXhhDbyYcEAVEpV4YR28mHmAFRKVeGEtvJhxgBUSlXhhPbyoXIAKqWqcEIO+VAxAJVSVTghj3yYGIBKqSqckEs+jAxApVQVTsgnHwYGoFKqCifklA/Cp2JVOCGvfBA9FavCCbnlg+CpWBVOyC8fxE7FqnCChnyAV5X//lp+vHyAzvJjoyRf4lSs5W8nP/2pWMvfVj4kPhVr+dvLh6SnYi1/H/mQ8FSs5e8nH5KdirX8feVDolOxlr+/fEhyKtby28iHBKdiLb+dfGh8Ktby28qHhqdiLb+9fGh0Ktbyc8iHBqdiLT+PfNj5VKzl55IPO56Ktfx88mGnU7GWn1M+7HAq1vLzyoeNT8Vafm75sOGpWMvPL3+zU7GWryH/8/PzeS+FguX3fc9ryIv/Yvka8jc5FWv5evLhyS6FguWHn4q1fF358CSXQsHyw0/FWr6+fDj4pVCw/PBTsZZ/HPlw0EuhYPnhp2It/3jy4WCXQqF9oXOSgfUwl0IhR6G1ycJ6iEuhkKfQmmRilb8UCrkKnUo2VulLoZCv0LFkZJW9FAo5Cx1KVlbJS6GQt9BHycwqdykUchd6n+ysUpdCIX+h11Fg7Sz/eeUD/AXO4Q/m+yiT4QAAAABJRU5ErkJggg==');
+  background: var(--theme, #25b13d) url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAEt0lEQVR4nO2dW3KjQBAEU/hx7r21I+TA3o9ZeSVZwAAN04WqDjCRUVmfRHP6+Pj4Q1DO5zN930c9d5Ou63h/f+d0OoW8Z9bC2UU95kJLVFgvnCEDcKElKqzXnKsH4EJLVFjvOVcNwIWWqLA+4lw8ABdaosI6xLloAC60RIV1jHP2AFxoiQrrFOesAbjQEhXWGs7qAbjQEhXWWs6qAbjQEhXWOZyTA3ChJSqsczlHB+BCS1RYl3AODsCFlqiwLuV8OAAXWqLCuobz1wBcaIkK61rOmwG40BIV1gjOnwG40BIV1ijODlzoJSqskZydCy1RYY3m7J69UNBh3YLzNeSlu7y8vPD29pa+UHhu+X3fx30Ueonl68iHlZ+E3cfyteRD4AAsX08+BA3A8jXlQ8AAuq6z/ODsyblqACqFgg7r3pyLB6BSKOiwtuBcNACVQkGHtRXn7AGoFAo6rC05Zw1ApVDQYW3NWT2A1qBzosKagbNqABlAa6PCmoVzcgBZQGuiwpqJc3QAmUCnosKajXNwANlAx6LCmpHz4QAygg5FhTUr568BZAV9FBXWzJw3A8gMeh8V1uycPwPIDnodFVYFzg40QC9RYRXi1AAFqVIlOAE6GVCRUlU4oXzJ1SmAqpSqwglFvk/FBkaFE/7Lh4BvAi1fhxNu5cPKAVi+Dif8lg8rBmD5OpzwWD4sHIDl63DCsHxYMADL1+GEcfkwcwCWr8MJ0/JhxgAsX4cT6uRD5QAsX4cT6uVDxQAsX4cT5smHiQFYvg4nzJcPIwOwfB1OWCYfBgZg+TqcsFw+PBiA5etwwjr5cDcAy9fhhPXy4WoAlq/DCTHyAZ+KvUSFE+LkAz4VCzqcECv/+/vbp2JVOCFe/vl8jr8UCjqlqnDCNvK/vr7iB6BSqgonbCcfAr4JvI5KqSqcsK18CByASqkqnLC9fAgagEqpKpywj3wIGIBKqSqcsJ98WDkAlVJVOGFf+bBiACqlqnDC/vJh4QBUSlXhhDbyYcEAVEpV4YR28mHmAFRKVeGEtvJhxgBUSlXhhPbyoXIAKqWqcEIO+VAxAJVSVTghj3yYGIBKqSqckEs+jAxApVQVTsgnHwYGoFKqCifklA/Cp2JVOCGvfBA9FavCCbnlg+CpWBVOyC8fxE7FqnCChnyAV5X//lp+vHyAzvJjoyRf4lSs5W8nP/2pWMvfVj4kPhVr+dvLh6SnYi1/H/mQ8FSs5e8nH5KdirX8feVDolOxlr+/fEhyKtby28iHBKdiLb+dfGh8Ktby28qHhqdiLb+9fGh0Ktbyc8iHBqdiLT+PfNj5VKzl55IPO56Ktfx88mGnU7GWn1M+7HAq1vLzyoeNT8Vafm75sOGpWMvPL3+zU7GWryH/8/PzeS+FguX3fc9ryIv/Yvka8jc5FWv5evLhyS6FguWHn4q1fF358CSXQsHyw0/FWr6+fDj4pVCw/PBTsZZ/HPlw0EuhYPnhp2It/3jy4WCXQqF9oXOSgfUwl0IhR6G1ycJ6iEuhkKfQmmRilb8UCrkKnUo2VulLoZCv0LFkZJW9FAo5Cx1KVlbJS6GQt9BHycwqdykUchd6n+ysUpdCIX+h11Fg7Sz/eeUD/AXO4Q/m+yiT4QAAAABJRU5ErkJggg==');
   background-attachment: fixed;
 }
 #sub-body {
@@ -620,7 +620,7 @@ body:not(.is-autopagerized) .adx-link-container {
 }
 #cookie-policy-notice a:hover,
 #cookie-policy-notice button:hover {
-  background-color: #8000ff;
+  background-color: #25b13d;
 }
 #cookie-policy-notice .cookie-setting {
   background-color: #898989;
@@ -630,10 +630,10 @@ body:not(.is-autopagerized) .adx-link-container {
   background-color: #969696;
 }
 #cookie-policy-notice .cookie-policy-notice {
-  background-color: #8000ff;
+  background-color: #25b13d;
 }
 #cookie-policy-notice .cookie-policy-notice:hover {
-  background-color: #8000ff;
+  background-color: #25b13d;
 }
 .simple-wrapper {
   background-color: #f4f4f4;
@@ -856,7 +856,7 @@ body:not(.is-autopagerized) .adx-link-container {
 }
 #global-menu li a:hover,
 #global-menu li button:hover {
-  box-shadow: inset 0 -4px 0 -1px #8000ff;
+  box-shadow: inset 0 -4px 0 -1px #25b13d;
 }
 #global-menu li a.login:hover {
   box-shadow: none;
@@ -948,7 +948,7 @@ body:not(.is-autopagerized) .adx-link-container {
 }
 #global-menu li.selected a,
 #global-menu li.selected a:before {
-  color: #8000ff !important;
+  color: #25b13d !important;
 }
 #global-menu .badge {
   display: block;
@@ -1081,7 +1081,7 @@ body:not(.is-autopagerized) .adx-link-container {
   line-height: 18px;
   width: 22px;
   text-align: center;
-  color: #8000ff;
+  color: #25b13d;
   position: absolute;
   top: 50%;
   margin-top: -9px;
@@ -1112,8 +1112,8 @@ body:not(.is-autopagerized) .adx-link-container {
   }
 }
 h2.label {
-  border-bottom: 3px solid #8000ff;
-  color: #8000ff;
+  border-bottom: 3px solid #25b13d;
+  color: #25b13d;
   font-weight: normal;
   font-size: 16px;
   padding: 17px 15px 10px;
@@ -1161,7 +1161,7 @@ h3.label.label-3ds .with-filter-right {
 }
 h2.reply-label {
   clear: both;
-  background: #8000ff;
+  background: #25b13d;
   color: #FFF;
   border-top: 1px solid #6000ff;
   padding: 3px 10px 1px;
@@ -1169,7 +1169,7 @@ h2.reply-label {
 }
 .count {
   font-weight: bold;
-  color: #8000ff;
+  color: #25b13d;
   line-height: 1;
   float: right;
   padding: 17px 15px 10px;
@@ -1395,13 +1395,13 @@ h2.label-topic .with-filter-right {
 .tab2 a.selected,
 .tab3 a.selected {
   color: #FFF;
-  background-color: #8000ff;
-  background: -webkit-gradient(linear, left top, left bottom, from(#8000ff), to(#6000c0));
-  background: -webkit-linear-gradient(top, #8000ff #6000c0);
-  background: -moz-linear-gradient(top, #8000ff #6000c0);
-  background: -ms-linear-gradient(top, #8000ff #6000c0);
-  background: -o-linear-gradient(top, #8000ff #6000c0);
-  background: linear-gradient(top, #8000ff #6000c0);
+  background-color: #25b13d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#25b13d), to(#6000c0));
+  background: -webkit-linear-gradient(top, #25b13d #6000c0);
+  background: -moz-linear-gradient(top, #25b13d #6000c0);
+  background: -ms-linear-gradient(top, #25b13d #6000c0);
+  background: -o-linear-gradient(top, #25b13d #6000c0);
+  background: linear-gradient(top, #25b13d #6000c0);
 }
 .tab2 a.selected span.number,
 .tab3 a.selected span.number {
@@ -2197,11 +2197,11 @@ h2.label-topic .with-filter-right {
   content: "x";
 }
 .list .toggle-button .follow-button:before {
-  color: #8000ff;
+  color: #25b13d;
   content: "Q";
 }
 .list .toggle-button .follow-done-button:before {
-  color: #8000ff;
+  color: #25b13d;
   content: "v";
 }
 .list .toggle-button .follow-done-button:hover {
@@ -2220,7 +2220,7 @@ h2.label-topic .with-filter-right {
   padding: 10px 0;
 }
 .community-list .news-community-badge {
-  background: #8000ff;
+  background: #25b13d;
   color: #FFF;
   display: inline-block;
   font-size: 10px;
@@ -2619,7 +2619,7 @@ form.search input[type="submit"] {
   box-sizing: border-box;
 }
 .tutorial-window .content {
-  border: 2px solid #8000ff;
+  border: 2px solid #25b13d;
   padding: 25px 20px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -2991,7 +2991,7 @@ form.search input[type="submit"] {
   color: #6000c0;
 }
 .spoiler-button.checked:before {
-  color: #8000ff;
+  color: #25b13d;
 }
 .form-buttons {
   margin-top: 20px;
@@ -3213,7 +3213,7 @@ input.file-button {
   padding: 0 10px;
   border-top: 1px solid #6000c0;
   border-bottom: 1px solid #6000c0;
-  background: #8000ff;
+  background: #25b13d;
   color: #fff;
   font-size: 16px;
   font-weight: bold;
@@ -3532,19 +3532,19 @@ input.file-button {
 }
 .sidebar-setting .sidebar-menu-setting:before {
   content: "Y";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-info:before {
   content: "w";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-support:before {
   content: "h";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-guide:before {
   content: "g";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-diary:before {
   content: "%";
@@ -3561,26 +3561,26 @@ input.file-button {
 }
 .sidebar-setting .sidebar-menu-in_game:before {
   content: "&";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-relation:before {
   content: "l";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-post:before {
   content: "p";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-replies:before {
   content: "r";
-  color: #8000ff;
+  color: #25b13d;
 }
 .sidebar-setting .sidebar-menu-album:before {
   content: "X";
 }
 .sidebar-setting .sidebar-menu-empathies:before {
   content: "e";
-  color: #8000ff;
+  color: #25b13d;
 }
 #sidebar-profile-body {
   padding: 0 15px 10px;
@@ -3713,12 +3713,12 @@ input.file-button {
   border-radius: 0 5px 5px 0;
 }
 .user-sidebar .follow-button:before {
-  color: #8000ff;
+  color: #25b13d;
   font-size: 13px;
   content: "Q";
 }
 .user-sidebar .friend-button:before {
-    color: #8000ff;
+    color: #25b13d;
     font-size: 15px;
     content: "F"
 }
@@ -3729,12 +3729,12 @@ input.file-button {
     content: "f"!important
 }
 .user-sidebar .unfriend-button:before {
-    color: #8000ff;
+    color: #25b13d;
     font-size: 15px;
     content: "f"
 }
 .user-sidebar .follow-done-button:before {
-  color: #8000ff;
+  color: #25b13d;
   content: "v";
 }
 .user-sidebar .follow-done-button:hover {
@@ -3795,7 +3795,7 @@ input.file-button {
   vertical-align: bottom;
 }
 .user-data h4 span {
-  background-color: #8000ff;
+  background-color: #25b13d;
   padding: 2px 12px 1px;
   display: block;
   white-space: nowrap;
@@ -3973,7 +3973,7 @@ input.file-button {
   display: inline-block;
   *display: inline;
   *zoom: 1;
-  background: #8000ff;
+  background: #25b13d;
   font-size: 10px;
   color: #FFF;
   margin-left: 10px;
@@ -4032,7 +4032,7 @@ input.file-button {
   padding: 10px 0;
   font-size: 22px;
   font-weight: bold;
-  color: #8000ff;
+  color: #25b13d;
   text-align: center;
 }
 .guest #try-miiverse .try-miiverse-catch {
@@ -4136,7 +4136,7 @@ input.file-button {
   margin: 10px 14px 0;
 }
 .guest .guest-terms-link {
-  background-color: #8000ff;
+  background-color: #25b13d;
   color: #fff;
   padding: 7px 35px 7px 20px;
   position: relative;
@@ -4379,7 +4379,7 @@ p.note-jasrac span {
   clear: both;
   padding: 5px 10px 3px;
   margin-top: 2em;
-  background: #8000ff;
+  background: #25b13d;
   color: #fff;
   font-size: 14px;
   border-radius: 5px;
@@ -4439,7 +4439,7 @@ p.note-jasrac span {
 }
 div#activity-feed-tutorial {
   background-color: #fff;
-  border: 3px solid #8000ff;
+  border: 3px solid #25b13d;
   border-radius: 10px;
   height: auto;
   padding: 25px 14px 15px;
@@ -4456,7 +4456,7 @@ div#activity-feed-tutorial img.tutorial-image {
 div#activity-feed-tutorial h3 {
   text-align: left;
   clear: both;
-  color: #8000ff;
+  color: #25b13d;
   font-size: 14px;
   border-bottom: 1px dashed #ddd;
   padding: 15px 0 3px;
@@ -4854,7 +4854,7 @@ div#activity-feed-tutorial.no-content p.tleft {
   font-size: 16px;
   font-weight: bold;
   display: block;
-  color: #8000ff;
+  color: #25b13d;
   padding: 12px 5px 4px 68px;
   line-height: 1.3em;
 }
@@ -4914,7 +4914,7 @@ div#activity-feed-tutorial.no-content p.tleft {
   font-size: 14px;
   margin-right: 2px;
   vertical-align: middle;
-  color: #8000ff;
+  color: #25b13d;
 }
 .filtering-label.filtering-label-official-tag .tag-name {
   color: #00acca;
@@ -5415,7 +5415,7 @@ button.msg-update {
   border-bottom: 2px solid #e8316e;
 }
 .post .post-subtype-label.post-subtype-label-via-api {
-  border-bottom: 2px solid #8000ff;
+  border-bottom: 2px solid #25b13d;
 }
 .post #post-permlink .post-subtype-label {
   margin-right: -15px;
@@ -5589,7 +5589,7 @@ button.msg-update {
 }
 .post-tag:before {
   content: "t";
-  color: #8000ff;
+  color: #25b13d;
   display: inline-block;
   font-weight: normal;
   font-size: 14px;
@@ -5696,7 +5696,7 @@ button.msg-update {
 }
 .post-meta .yeah-added + .yeah:before,
 .reply-meta .yeah-added + .yeah:before {
-  color: #8000ff;
+  color: #25b13d;
 }
 .ie8-earlier .post-meta .yeah.changing:before,
 .ie8-earlier .reply-meta .yeah.changing:before {
@@ -5775,7 +5775,7 @@ button.msg-update {
 .yeah-container a:before {
   content: "e";
   font-size: 16px;
-  color: #8000ff;
+  color: #25b13d;
   margin-right: 4px;
   margin-top: -3px;
   display: inline-block;
@@ -5787,7 +5787,7 @@ button.msg-update {
   font-size: 16px;
 }
 .yeah-body a {
-  color: #8000ff;
+  color: #25b13d;
 }
 .other-yeah-cotainer {
   text-align: right;
@@ -5853,7 +5853,7 @@ button.msg-update {
 }
 .post-list .empathized-user-name:before {
   font-size: 14px;
-  color: #8000ff;
+  color: #25b13d;
   content: "e";
   margin-right: 2px;
 }
@@ -6326,7 +6326,7 @@ h2.label-topic_post .label-topic_post-msgid {
 .post-list-heading-button:before {
   content: "p";
   font-size: 14px;
-  color: #8000ff;
+  color: #25b13d;
   float: left;
   margin-right: 3px;
 }
@@ -6374,7 +6374,7 @@ h2.label-topic_post .label-topic_post-msgid {
   vertical-align: middle;
   padding-left: 5px;
   display: inline-block;
-  color: #8000ff;
+  color: #25b13d;
 }
 .multi_timeline-topic-filter .window-bottom-buttons .topic-search-filter-post:before {
   content: 'p';
@@ -6382,7 +6382,7 @@ h2.label-topic_post .label-topic_post-msgid {
   font-size: 20px;
   line-height: 20px;
   padding-right: 5px;
-  color: #8000ff;
+  color: #25b13d;
 }
 .before-renewal .post-body {
   padding: 15px;
@@ -6856,7 +6856,7 @@ h2.label-topic_post .label-topic_post-msgid {
 .user-organization {
   display: block;
   font-size: 12px;
-  color: #8000ff;
+  color: #25b13d;
 }
 div.search form.search {
   margin: 15px auto;
@@ -7015,7 +7015,7 @@ div.search .search-content p.note {
   display: block;
   line-height: 1;
   font-size: 12px;
-  color: #8000ff;
+  color: #25b13d;
   font-style: italic;
 }
 #diary-container .nick-name {
@@ -7068,7 +7068,7 @@ div.search .search-content p.note {
   width: 100%;
 }
 #image-header-content .image-header-title .title {
-  color: #8000ff;
+  color: #25b13d;
   font-size: 18px;
   margin: 0 0 10px 20px;
   line-height: 1.3em;
@@ -7120,7 +7120,7 @@ div.search .search-content p.note {
   clear: both;
   padding: 5px 10px 3px;
   margin-top: 2em;
-  background: #8000ff;
+  background: #25b13d;
   color: #fff;
   font-size: 14px;
   border-radius: 5px;
@@ -7135,7 +7135,7 @@ div.search .search-content p.note {
 #help .help-content h3 {
   clear: both;
   margin-top: 1.5em;
-  border-bottom: 2px solid #8000ff;
+  border-bottom: 2px solid #25b13d;
   font-size: 14px;
   font-weight: bold;
 }
@@ -7355,7 +7355,7 @@ div.search .search-content p.note {
   background-color: #FF6473;
 }
 #help .faq .attention .title {
-  background-color: #8000ff;
+  background-color: #25b13d;
 }
 #help .guide-img6 {
   *zoom: 1;
@@ -7506,7 +7506,7 @@ div.search .search-content p.note {
   font-size: 16px;
 }
 #special-offdevice h2 {
-  color: #8000ff;
+  color: #25b13d;
   font-size: 30px;
 }
 #special-offdevice .note,
@@ -7524,7 +7524,7 @@ div.search .search-content p.note {
 #special-offdevice .header {
   background: url('/assets/img/special/header-bg-sarcle.png') no-repeat;
   background-position: center;
-  border-top: 5px #8000ff;
+  border-top: 5px #25b13d;
   min-height: 340px;
   text-align: center;
   padding-top: 10px;
@@ -7561,7 +7561,7 @@ div.search .search-content p.note {
   left: 0;
 }
 #special-offdevice .header h1 {
-  color: #8000ff;
+  color: #25b13d;
   border-bottom: 4px dashed #bff095;
   font-size: 35px;
   display: inline;
@@ -8235,7 +8235,7 @@ div.search .search-content p.note {
     width: 100%;
   }
   #global-menu li.selected a {
-    border-bottom: 2px solid #8000ff;
+    border-bottom: 2px solid #25b13d;
   }
   #global-menu #global-my-menu {
     top: 62px;
@@ -10420,7 +10420,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .textarea-with-menu.active-text .textarea-menu-text,.textarea-with-menu.active-memo .textarea-menu-memo,.textarea-with-menu.active-poll .textarea-menu-poll {
-    background: -webkit-gradient(linear,left top,left bottom,from(#8000ff),to(#6000c0)) 0 0
+    background: -webkit-gradient(linear,left top,left bottom,from(#25b13d),to(#6000c0)) 0 0
 }
 
 .textarea-with-menu .textarea-menu-text.disabled,.textarea-with-menu .textarea-menu-memo.disabled,.textarea-with-menu .textarea-menu-poll.disabled {
@@ -10527,7 +10527,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .textarea-with-menu .textarea-poll .delete:hover {
-    background: var(--theme, #8000ff);
+    background: var(--theme, #25b13d);
     color: #fff
 }
 
@@ -10594,7 +10594,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .textarea-with-menu.active-text .textarea-menu-text,.textarea-with-menu.active-memo .textarea-menu-memo,.textarea-with-menu.active-poll .textarea-menu-poll {
-  background: -webkit-gradient(linear,left top,left bottom,from(#8000ff),to(#6000c0)) 0 0
+  background: -webkit-gradient(linear,left top,left bottom,from(#25b13d),to(#6000c0)) 0 0
 }
 
 .textarea-with-menu .textarea-menu-text.disabled,.textarea-with-menu .textarea-menu-memo.disabled,.textarea-with-menu .textarea-menu-poll.disabled {
@@ -10701,7 +10701,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 .textarea-with-menu .textarea-poll .delete:hover {
-  background: #8000ff;
+  background: #25b13d;
   color: #fff
 }
 
@@ -10750,7 +10750,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
 }
 
 #memo-drawboard-page button.selected {
-  background: #8000ff
+  background: #25b13d
 }
 
 #memo-drawboard-page button.artwork-clear:before {
@@ -10829,7 +10829,7 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
   image-rendering: -o-crisp-edges;
   image-rendering: optimizeSpeed;
   image-rendering: pixelated;
-  border: 1px solid #8000ff
+  border: 1px solid #25b13d
 }
 
 #memo-drawboard-page .memo-canvas canvas:not(#artwork-canvas) {
@@ -10895,7 +10895,7 @@ img {
   *zoom: 1;
 }
 #admin-menu li.selected a {
-  color: #8000ff;
+  color: #25b13d;
 }
 #admin-menu #admin-menu-list #admin-menu-dashboard a:before {
   content: "g";
@@ -10980,7 +10980,7 @@ form.search.folded {
   margin: 0 8px;
 }
 .post-poll .poll-votes {
-  color: var(--theme, #8000ff);
+  color: var(--theme, #25b13d);
 }
 .post-poll:not(.has-votes) .poll-votes {
   color: unset;
@@ -11020,7 +11020,7 @@ form.search.folded {
 .post-poll .poll-option .poll-background {
   border-radius: 5px;
   transition: width 0.5s ease-in-out;
-  background: var(--theme, #8000ff);
+  background: var(--theme, #25b13d);
   position: absolute;
   z-index: -1;
   height: 100%;
@@ -11070,7 +11070,7 @@ form.search.folded {
   pointer-events: none;
 }
 #nprogress .bar {
-  background: #8000ff;
+  background: #25b13d;
   position: fixed;
   z-index: 1031;
   top: 56px;

@@ -1,0 +1,29 @@
+<html>
+    <%- include("elements/header") %>
+    <body>
+        <div id="container">
+            <div id="main-body" class="guest-top">
+                <div class="community-main">
+                    <div id="community-eyecatch"></div>
+                </div>
+                <div class="community-top-sidebar">
+                    <form action="/communities/search" class="search">
+                        <input maxlength="32" name="query" placeholder="Search all communities" type="text"><input title="Search" type="submit" value="q">
+                    </form>
+                    <div class="post-list-outline index-memo">
+                        <h2 class="label">Nodeverse</h2>
+                        <h2><%= nodeverse_settings.Memo.title1%></h2>
+                        <p><%= nodeverse_settings.Memo.paragraph1%></p>
+                        <h2><%= nodeverse_settings.Memo.title2%></h2>
+                        <p><%= nodeverse_settings.Memo.paragraph2%></p><br>
+                    </div>
+                </div>
+                <div class="community-main">
+                    <h3 class="community-title">Featured Communities</h3>
+                    <ul class="list community-list community-card-list test-community-list-item">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

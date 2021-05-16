@@ -1,0 +1,18 @@
+{
+    "Memo": {
+            "title1": "Welcome to Nodeverse !",
+            "paragraph1": "Nodeverse is a Miiverse Clone that allows you to discuss with other users about games and more!",
+            "title2": "Why?",
+            "paragraph2": "Well, NodeJS is faster and more cool."
+    },
+    "Security":{
+        "allow_signups": true,
+        "cookie_secret": "areyouseeingthismomimpopular"
+    },
+    "DB": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "nodeverse"
+    }
+}

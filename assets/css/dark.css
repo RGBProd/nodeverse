@@ -5,7 +5,7 @@
     background-color: var(--theme-darker, #180030) !important;
 }
 body, #footer, .favorite-community-link.symbol:hover, .post.hidden:hover, .filtering-label, #guide-menu:hover, #post-diary-window, .spoiler-button, .textarea-line, .dialog .window-body, .digest .post .icon-container, .icon-container .icon, #sidebar-profile-body .icon, .sidebar-container, .post .community-container, #global-menu #global-my-menu, .guest#post-permlink .guest-message p, form.search input[type="text"], form.search input[type="submit"], .warning-content, .community-card-list > li, .post-permalink-button, .repost:hover {
-    background-color: var(--theme-dark, #200040) !important;
+    background-color: var(--theme-dark, #265a29) !important;
 }
 body, .community-title, #footer-selector li button, #footer-inner p a, .post-list.empty, .album-list.empty, .list > .no-content, .no-content, .community-game-title, .arrow-button, .post .hidden-content button, .post .deleted-message button, .post .hidden_as_violation button, .post .hidden-content a, .post .deleted-message a, .post .hidden_as_violation a, .post .community-container-heading a, .list-content-with-icon-and-text .text, .list-content-with-icon-and-text .id-name, #sidebar-profile-body .id-name, #post-diary-window p, .sidebar-container h4 a, .post-list .empathized-user-name, .post-list .acted-user-name, .post-list .recommend-user-title, .headline h2, #post-content .post-content-text, #global-menu li a, #global-menu li button, #sidebar-profile-status .number, .community-name, .community-name a, .community-list .title, .sidebar-setting .sidebar-menu-relation:before, #reply-content button.more-button, .sidebar-profile .profile-comment, .guest#post-permlink .guest-message p, form.search input[type="text"], .community-name .owner, .post-list-heading-button, .topic-title-input, .textarea, .yeah-button, .post-permalink-button, .hidden-content-button, .community-description, #admin-menu ul li:not(.selected) a {
     color: #ccc !important;
@@ -27,7 +27,7 @@ input[type=text], input[type=number], input[type=password], input[type=email], i
     color: #ccc;
 }
 .delete:hover {
-    color: var(--theme-dark, #200040) !important;
+    color: var(--theme-dark, #265a29) !important;
 }
 .spoiler-button, .textarea-line {
     border: 1px solid #000;
@@ -121,7 +121,7 @@ form.search input[type="submit"] {
     border-top: 1px solid rgb(0, 0, 0);
 }
 #main-body > .no-content {
-    background: var(--theme-dark, #200040) none repeat scroll 0% 0%;
+    background: var(--theme-dark, #265a29) none repeat scroll 0% 0%;
     border: 1px solid #000;
     box-shadow: 0px 1px 0px #000;
 }
@@ -129,19 +129,19 @@ form.search input[type="submit"] {
     background: #424242 !important;
 }
 .tab2 a, .tab3 a {
-    background-color: var(--theme-dark, #200040);
-    background: -webkit-gradient(linear, left top, left bottom, from(var(--theme-dark, #200040)), to(var(--theme-dark, #200040)), color-stop(0.5, var(--theme-dark, #200040)));
-    background: -webkit-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -moz-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -ms-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -o-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
+    background-color: var(--theme-dark, #265a29);
+    background: -webkit-gradient(linear, left top, left bottom, from(var(--theme-dark, #265a29)), to(var(--theme-dark, #265a29)), color-stop(0.5, var(--theme-dark, #265a29)));
+    background: -webkit-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -moz-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -ms-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -o-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
     color: #CCCCCC;
     border: 1px solid #000;
     border-bottom-color: #000;
 }
 .album-dialog .album-close-button {
-    background: -webkit-linear-gradient(bottom, var(--theme-dark, #200040), var(--theme-dark, #200040));
+    background: -webkit-linear-gradient(bottom, var(--theme-dark, #265a29), var(--theme-dark, #265a29));
     border: 1px solid #000000;
 }
 .tab2 a:hover, .tab3 a:hover {
@@ -174,17 +174,17 @@ form.search input[type="submit"] {
 }
 
 .topic-categories-container {
-    background: var(--theme-dark, #200040);
-    -webkit-box-shadow: 0 1px 0 var(--theme-dark, #200040);
-    -moz-box-shadow: 0 1px 0 var(--theme-dark, #200040);
-    -ms-box-shadow: 0 1px 0 var(--theme-dark, #200040);
-    -o-box-shadow: 0 1px 0 var(--theme-dark, #200040);
-    box-shadow: 0 1px 0 var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
+    -webkit-box-shadow: 0 1px 0 var(--theme-dark, #265a29);
+    -moz-box-shadow: 0 1px 0 var(--theme-dark, #265a29);
+    -ms-box-shadow: 0 1px 0 var(--theme-dark, #265a29);
+    -o-box-shadow: 0 1px 0 var(--theme-dark, #265a29);
+    box-shadow: 0 1px 0 var(--theme-dark, #265a29);
 }
 .button {
     border: 1px solid rgb(0, 0, 0);
     border-bottom-color: #000;
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     color: #ccc;
     box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0);
 }
@@ -205,7 +205,7 @@ form.search input[type="submit"] {
 }
 #sidebar-profile-status li a > span {
     display: block;
-    border-right: 1px solid var(--theme-dark, #200040);
+    border-right: 1px solid var(--theme-dark, #265a29);
 }
 #global-menu li#global-menu-mymenu .icon-container img:not(.official-tag) {
     border: 1px solid #000;
@@ -221,7 +221,7 @@ form.search input[type="submit"] {
 }
 #global-menu #global-my-menu:after {
     border-color: transparent;
-    border-bottom-color: var(--theme-dark, #200040);
+    border-bottom-color: var(--theme-dark, #265a29);
 }
 .list-content-with-icon-and-text li {
     border-top: 1px solid #000;
@@ -236,30 +236,30 @@ form.search input[type="submit"] {
     color: #696666;
 }
 #community-eyecatch-main > div {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
 }
 #guide-menu {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
 }
 #guide-menu .arrow-button {
     border-top: 1px solid #000;
 }
 #community-favorite {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
 }
 #identified-user-banner {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
 }
 .digest .post .body {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
 }
 .digest .post .body:after {
-    border-color: transparent var(--theme-dark, #200040) transparent transparent;
+    border-color: transparent var(--theme-dark, #265a29) transparent transparent;
 }
 .digest .post .body:before {
     border-color: transparent #000 transparent transparent;
@@ -290,7 +290,7 @@ form.search input[type="submit"] {
     border-color: #000;
 }
 #sub-body {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border-bottom: 2px solid #000;
     box-shadow: 0 0 15px #000;
 }
@@ -317,7 +317,7 @@ form.search input[type="submit"] {
 	background-color: #313131;
 }
 .guest #about {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border-bottom: 2px solid #000;
 }
 .guest .guest-terms-link:hover {
@@ -345,7 +345,7 @@ h2.label-topic_post, h2.label-topic {
     color: #e8316e;
 }
 .post-list-outline {
-    background: var(--theme-dark, #200040);
+    background: var(--theme-dark, #265a29);
     border: 1px solid rgb(0, 0, 0);
     -webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2);
@@ -381,7 +381,7 @@ h2.label-topic_post, h2.label-topic {
     -ms-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2);
     -o-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2);
-    background-color: var(--theme-dark, #200040);
+    background-color: var(--theme-dark, #265a29);
     color: #ccc;
 }
 form.search {
@@ -443,13 +443,13 @@ border-top: 1px solid #222;
     background: url(/assets/img/rks.png) no-repeat 0 0 !important;
 }
 .community-switcher .community-switcher-tab {
-    background-color: var(--theme-dark, #200040);
-    background: -webkit-gradient(linear, left top, left bottom, from(var(--theme-dark, #200040)), to(var(--theme-dark, #200040)), color-stop(0.5, var(--theme-dark, #200040)));
-    background: -webkit-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -moz-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -ms-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: -o-linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
-    background: linear-gradient(top, var(--theme-dark, #200040) 0%, var(--theme-dark, #200040) 50%, var(--theme-dark, #200040) 100%);
+    background-color: var(--theme-dark, #265a29);
+    background: -webkit-gradient(linear, left top, left bottom, from(var(--theme-dark, #265a29)), to(var(--theme-dark, #265a29)), color-stop(0.5, var(--theme-dark, #265a29)));
+    background: -webkit-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -moz-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -ms-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: -o-linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
+    background: linear-gradient(top, var(--theme-dark, #265a29) 0%, var(--theme-dark, #265a29) 50%, var(--theme-dark, #265a29) 100%);
     border: 1px solid black;
     color: #fff;
 }

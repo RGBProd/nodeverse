@@ -1,0 +1,33 @@
+<html>
+    <%- include("elements/header") %>
+    <body>
+        <%if (nodeverse_settings.Security.allow_signups){%>
+            <div id="main-body" class="guest">
+                <div class="main-column center">
+                    <div class="post-list-outline login-page">
+                        <form method="post">
+                            <img src="/img/menu-logo.png">
+                            <p class="lh">Sign Up</p>
+                            <p>Create an Nodeverse account to interact with other users through posts, comments, messages and more!</p><br>
+                            <p>You should be 13 years of age or older to join this site.<br>
+                            <p class="red" style="margin-bottom:6px" name="error"></p>
+                            <h3 class="label"><label><span class="red">*</span> User ID: <input type="text" class="auth-input" name="username" maxlength="32" minlength="4" placeholder="ID" required></label></h3>
+                            <h3 class="label"><label><span class="red">*</span> Nickname: <input type="text" class="auth-input" name="nickname" maxlength="32" placeholder="Nickname" required></label></h3>
+                            <h3 class="label"><label><span class="red">*</span> Password: <input type="password" class="auth-input" name="password" maxlength="32" placeholder="Password" required></label></h3>
+                            <h3 class="label"><label><span class="red">*</span> Confirm Password: <input type="password" class="auth-input" name="confirm" maxlength="32" placeholder="Confirm Password" required></label></h3>
+                            <button type="submit" class="button">Create account</button>
+                            <div class="ll">
+                                <p>All fields with a red asterisk (<span class="red">*</span>) are required.</p>
+                                <p>You can change all of these fields after you sign up; except for user ids, which can only be changed by admins.</p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div> 
+        <%}else{%>
+            <div class="post-list-outline no-content no-post-content">
+                <p>Sorry user, but signups have been <strong>disabled</strong>.</p>
+            </div>
+        <%}%>
+   </body>
+</html>
