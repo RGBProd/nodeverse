@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="587" height="101" src="https://raw.githubusercontent.com/RGBProd/nodeverse/main/assets/img/menu-logo.png">
+  <img src="https://raw.githubusercontent.com/RGBProd/nodeverse/main/assets/img/menu-logo.png">
 </p>
 
 # Nodeverse
