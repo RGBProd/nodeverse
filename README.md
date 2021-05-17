@@ -10,3 +10,8 @@ Glad you asked! <a href="https://github.com/Rix565">Rix565</a>, and <a href="htt
 ## AnYtHiNG ElSe?!???
 Yes, this project is under the Apache-2.0 License.
 If you do not know what that is.. Just check it.
+
+# What, this project is archived ??? Why ???
+The project is archived because DaKux leaved the team, and me, Rix56, it's too much work for me to do this alone.
+
+Now, goodbye.
